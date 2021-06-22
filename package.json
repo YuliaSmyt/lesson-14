@@ -1,0 +1,26 @@
+{
+  "name": "lesson-14",
+  "version": "1.0.0",
+  "description": "1. git clone <https_url>\r 2. git status  - показывает текущий статус проекта\r 3. git add . - проиндексировать текущие изменения\r 4. git commit -m \"Title commit\"\r 5. git push - залить на сервер",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliaSmyt/lesson-14.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuliaSmyt/lesson-14/issues"
+  },
+  "homepage": "https://github.com/YuliaSmyt/lesson-14#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.35.1"
+  }
+}
